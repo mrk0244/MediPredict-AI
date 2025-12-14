@@ -1,0 +1,5 @@
+{
+  "name": "MediPredict AI",
+  "description": "An AI-powered disease risk assessment tool using Gemini to simulate advanced predictive models for Diabetes, Heart Disease, and Breast Cancer.",
+  "requestFramePermissions": []
+}
